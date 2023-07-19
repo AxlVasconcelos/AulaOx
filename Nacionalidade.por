@@ -35,7 +35,7 @@ programa
 		
 		escreva("Qual sua nacionalidade?\n\n")
 		
-		escreva("1) Peruano \n")
+		escreva("1) Boliviano \n")
 		escreva("2) Brasileiro \n")
 		escreva("3) Argentino \n\n")
 
@@ -50,7 +50,7 @@ programa
 		escolha (opcao)	
 		{
 			caso 1: 
-		 		escreva (msg, "Peruano")
+		 		escreva (msg, "Boliviano")
 		 		pare   // Impede que as instruções do caso 2 sejam executadas
 		 	caso 2: 
 		 		escreva (msg, "Brasileiro")
